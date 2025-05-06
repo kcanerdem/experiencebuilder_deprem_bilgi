@@ -29,6 +29,7 @@ Kullanıcılar mahalle ve kapı numarasını girerek:
 ### 📡 Son Depremler Butonu
 AFAD'ın son depremler sayfasına yönlendiren bir bağlantı ile kullanıcılar güncel depremleri harici olarak görüntüleyebilir.
 
+Not: Bu uygulama, Üsküdar Belediyesi’ndeki stajım kapsamında geliştirilmiştir. Uygulamada kullanılan veriler kuruma aittir ve veri güvenliği ile gizliliği gerekçesiyle paylaşımı kısıtlanmıştır.
 ---
 
 ## 🛠️ Kullanılan Teknolojiler
