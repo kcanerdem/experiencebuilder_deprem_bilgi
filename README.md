@@ -50,6 +50,3 @@ AFAD'ın son depremler sayfasına yönlendiren bir bağlantı ile kullanıcılar
 > ![Detay kartı](screenshots/detay_kart.png)
 
 ---
-
-## 📂 Klasör Yapısı (Önerilen)
-
