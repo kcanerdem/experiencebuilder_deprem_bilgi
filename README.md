@@ -1,6 +1,6 @@
 # 🌐 ArcGIS Experience Builder ile Deprem Analiz ve Bilgilendirme Uygulaması
 
-Bu proje, Üsküdar Belediyesi'ndeki stajım kapsamında geliştirilmiş olup, afet hazırlık süreçlerini desteklemek ve kullanıcıların konum bazlı bilgiye hızlı ve etkili şekilde ulaşabilmesini sağlamak amacıyla ArcGIS Web Experience Builder kullanılarak oluşturulmuştur.
+Bu proje, Üsküdar Belediyesi'ndeki stajım kapsamında geliştirilmiş olup, afet hazırlık süreçlerini desteklemek ve kullanıcıların konum bazlı bilgiye hızlı ve etkili şekilde ulaşabilmesini sağlamak amacıyla ArcGIS Experience Builder kullanılarak oluşturulmuştur.
 
 ## 🧩 Uygulama Özellikleri
 
@@ -53,7 +53,7 @@ Bu uygulamada kullanılan veriler, Üsküdar Belediyesi tarafından sağlanan ve
 - [`veri_hazirlik_2.sql`](sql_veri_hazirlik/veri_hazirlik_2.sql)
 - [`veri_hazirlik_3.sql`](sql_veri_hazirlik/veri_hazirlik_3.sql)
 
-Verilerin tümü PostgreSQL/PostGIS ve ArcGIS Pro aracılığıyla düzenlenmiş ve ArcGIS Enterprise ortamında yayınlanarak Web Experience Builder uygulamasına entegre edilmiştir.
+Verilerin tümü PostgreSQL/PostGIS ve ArcGIS Pro aracılığıyla düzenlenmiş ve ArcGIS Enterprise ortamında yayınlanarak Experience Builder uygulamasına entegre edilmiştir.
 ---
 
 ## 📷 Uygulama Görselleri
